@@ -1,7 +1,13 @@
 <template>
-  <div></div>
+  <main>
+    <header>
+      <img src="./assets/logo.svg" alt="pinia logo" />
+      <h1>Pinia Logo</h1>
+    </header>
+  </main>
 </template>
 
 <script setup></script>
 
 <style lang="scss" scoped></style>
+
